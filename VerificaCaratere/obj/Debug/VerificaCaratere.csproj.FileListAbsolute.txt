@@ -1,0 +1,10 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\bin\Debug\VerificaCaratere.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\bin\Debug\VerificaCaratere.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\bin\Debug\VerificaCaratere.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.Form1.resources
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.Properties.Resources.resources
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.csproj.GenerateResource.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaCaratere\obj\Debug\VerificaCaratere.pdb

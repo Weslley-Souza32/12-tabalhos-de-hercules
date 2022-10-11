@@ -1,0 +1,7 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\bin\Debug\TrabalhandoComArray.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\bin\Debug\TrabalhandoComArray.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\bin\Debug\TrabalhandoComArray.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\obj\Debug\TrabalhandoComArray.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\obj\Debug\TrabalhandoComArray.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\obj\Debug\TrabalhandoComArray.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TrabalhandoComArray\obj\Debug\TrabalhandoComArray.pdb

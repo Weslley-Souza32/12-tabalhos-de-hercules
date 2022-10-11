@@ -1,0 +1,7 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\bin\Debug\SomaSerie.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\bin\Debug\SomaSerie.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\bin\Debug\SomaSerie.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\obj\Debug\SomaSerie.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\obj\Debug\SomaSerie.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\obj\Debug\SomaSerie.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaSerie\obj\Debug\SomaSerie.pdb

@@ -1,0 +1,6 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\MatrizIdentidade\bin\Debug\MatrizIdentidade.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\MatrizIdentidade\bin\Debug\MatrizIdentidade.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\MatrizIdentidade\bin\Debug\MatrizIdentidade.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\MatrizIdentidade\obj\Debug\MatrizIdentidade.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\MatrizIdentidade\obj\Debug\MatrizIdentidade.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\MatrizIdentidade\obj\Debug\MatrizIdentidade.pdb

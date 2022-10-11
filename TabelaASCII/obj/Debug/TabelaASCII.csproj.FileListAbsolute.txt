@@ -1,0 +1,7 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\bin\Debug\TabelaASCII.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\bin\Debug\TabelaASCII.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\bin\Debug\TabelaASCII.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\obj\Debug\TabelaASCII.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\obj\Debug\TabelaASCII.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\obj\Debug\TabelaASCII.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\TabelaASCII\obj\Debug\TabelaASCII.pdb

@@ -1,0 +1,6 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaDosDigitos\bin\Debug\SomaDosDigitos.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaDosDigitos\bin\Debug\SomaDosDigitos.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaDosDigitos\bin\Debug\SomaDosDigitos.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaDosDigitos\obj\Debug\SomaDosDigitos.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaDosDigitos\obj\Debug\SomaDosDigitos.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\SomaDosDigitos\obj\Debug\SomaDosDigitos.pdb

@@ -1,0 +1,7 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\bin\Debug\VerificaSeONumeroEPrimo.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\bin\Debug\VerificaSeONumeroEPrimo.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\bin\Debug\VerificaSeONumeroEPrimo.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\obj\Debug\VerificaSeONumeroEPrimo.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\obj\Debug\VerificaSeONumeroEPrimo.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\obj\Debug\VerificaSeONumeroEPrimo.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\VerificaSeONumeroEPrimo\obj\Debug\VerificaSeONumeroEPrimo.pdb

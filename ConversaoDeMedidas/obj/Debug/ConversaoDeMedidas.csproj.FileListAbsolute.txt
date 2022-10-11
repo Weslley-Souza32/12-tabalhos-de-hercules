@@ -1,0 +1,7 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\bin\Debug\ConversaoDeMedidas.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\bin\Debug\ConversaoDeMedidas.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\bin\Debug\ConversaoDeMedidas.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\obj\Debug\ConversaoDeMedidas.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\obj\Debug\ConversaoDeMedidas.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\obj\Debug\ConversaoDeMedidas.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ConversaoDeMedidas\obj\Debug\ConversaoDeMedidas.pdb

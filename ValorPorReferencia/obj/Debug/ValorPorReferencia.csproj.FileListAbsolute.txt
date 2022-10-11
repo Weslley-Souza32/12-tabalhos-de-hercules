@@ -1,0 +1,7 @@
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\bin\Debug\ValorPorReferencia.exe.config
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\bin\Debug\ValorPorReferencia.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\bin\Debug\ValorPorReferencia.pdb
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\obj\Debug\ValorPorReferencia.csproj.AssemblyReference.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\obj\Debug\ValorPorReferencia.csproj.CoreCompileInputs.cache
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\obj\Debug\ValorPorReferencia.exe
+D:\projetos visual studio\OsDozeTrabalhoDeHercules\ValorPorReferencia\obj\Debug\ValorPorReferencia.pdb
